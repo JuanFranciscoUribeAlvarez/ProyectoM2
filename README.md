@@ -1,1 +1,1 @@
-# ProyectoM2
+El programa lo hice con las explicaciones que hemos tenido en clases, lo hice usando el ciclo while y usando condicionales , como el if elif y else la reflexion que tube en este programa fue que pude yo crearlo sin problemas y que he aprendido a resolver rapido las situaciones que se me presenten o errores que me pueda generar
